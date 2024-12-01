@@ -1227,7 +1227,13 @@ body {
 
 /* Make the images invisible by default */
 
-.Containers {
+.Containers1,
+.Containers2,
+.Containers3,
+.Containers4,
+.Containers5,
+.Containers6,
+.Containers7 {
   display: none;
 }
 
@@ -1292,7 +1298,10 @@ body {
 .dots1,
 .dots2,
 .dots3,
-.dots4 {
+.dots4,
+.dots5,
+.dots6,
+.dots7 {
   cursor: pointer;
   height: 10px;
   width: 10px;
@@ -1332,7 +1341,10 @@ body {
 #more1,
 #more2,
 #more3,
-#more4 {
+#more4,
+#more5,
+#more6,
+#more7 {
   display: none;
 }
 
